@@ -10,7 +10,7 @@ This repository contains the dataset for the IGARSS2022 paper: [SEN23E: A CLOUDL
 
 ## Dataset
 
-The complete dataset and information of every coupled Sentinel-2/Sentinel-3 pair used in the experimentation can be found in: https://bit.ly/3zdccFx
+This repository has been moved to [this new location](https://github.com/ibanezfd/SEN23E). Please, find there the updated dataset. 
 
 ## Citation
 
